@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cacfa503f087c78419bf82ac3a07db66, type: 3}
+  m_Name: C_Fish4
+  m_EditorClassIdentifier: 
+  name: C_Fish4
+  rarity: Common
+  fishPrefab: {fileID: 4017451562058728009, guid: ba7689621532b6349a53dab2e5f3da21, type: 3}
+  value: 20
